@@ -1,8 +1,8 @@
 default:
-  name: "KITHUB MEMBER"
+  name: "44DA"
   avatar: "/assets/images/icons/default.png"
-  bio: "KITHUBで行われた勉強会の参加者です。"
+  bio: "KITHUB in Academic Theaterで行われた勉強会の参加した新入生です。"
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
+      url: "https://x.com"
